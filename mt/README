@@ -1,0 +1,6 @@
+Submission Instruction
+----------------------
+Starting from this directory, follow the following:
+cd ..
+tar czf roll-number.tar.gz mt
+Upload the file roll-number.tar.gz as an attachment to your answer to question "Practical".

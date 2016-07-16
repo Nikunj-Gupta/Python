@@ -1,0 +1,9 @@
+i = 1
+n = input("Enter number: ")
+max = ("Enter number 1: ")
+i = 2
+while(i <= n):
+    x = ("Enter number" + str(i) + ": ")
+    if(max > x):
+        max = x
+print max
